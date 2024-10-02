@@ -130,7 +130,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="box2dNoVisualPoc.cpp" />
+    <ClCompile Include="box2dPoc.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Physics.hpp" />

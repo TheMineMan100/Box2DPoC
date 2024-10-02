@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="box2dNoVisualPoc.cpp">
+    <ClCompile Include="box2dPoc.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
